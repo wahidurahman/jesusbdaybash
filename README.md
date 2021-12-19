@@ -15,6 +15,7 @@ Food/Alc of course will be available
 
 Contact: (408) 505-2368 for any logistical shit
 
+To edit/add ur name to this file just edit the file on main, plz dont fork and push to main this is markdown, its already formated/styled
 
 # Potluck
 
