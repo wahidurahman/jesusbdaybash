@@ -1,5 +1,20 @@
 # Jesus Bday Bash
 
+# Event Details
+
+Location: 1723 Alberni Street, Vancouver BC V6G 3G9
+https://goo.gl/maps/SiqUmWK2sQWaruno6
+
+Code: 372 
+
+Date: Thursday, December 23rd 2021
+
+Time: 7pm onwards
+
+Food/Alc of course will be available
+
+Contact: (408) 505-2368 for any logistical shit
+
 
 # Potluck
 
