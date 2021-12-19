@@ -33,6 +33,8 @@ Everyone brings a gift (upper-limit of value : $20) and wraps it neutrally to no
 
 ### Guidelines for Gifts
 
+for ideas on what to buy, check the wishlist file. 
+
 $20 value (upper-limit)
 
 Gift can be:
