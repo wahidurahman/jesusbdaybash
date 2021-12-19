@@ -1,8 +1,8 @@
 # jesusbdaybash
 
 
-<h1/> Potluck <h1>
+# Potluck
 
-Abir: Flatbread/Pizza (M)
-Andre: Mystery Side (S)
-Marcus: Drinks of Christmas theme (D)
+- Abir: Flatbread/Pizza (M)
+- Andre: Mystery Side (S)
+- Marcus: Drinks of Christmas theme (D)
